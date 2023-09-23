@@ -2,7 +2,7 @@
 
 <h2>Summary</h2>
 
-This project evaluates gradient boosting machine learning models to make a recommendation on the best model to make predictions on the market value of used cars. It also compares the gradient boosting models to non-gradient boosting models.
+This project evaluates different machine learning models on a time series to make predictions on how to maximize the number of taxi orders in an hour. 
 
 <h2>Table of Contents</h2>
 
