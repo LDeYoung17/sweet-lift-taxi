@@ -37,3 +37,10 @@ I would like to add more EDA and use a different dummy baseline.
 <h2>Sample Graph</h2>
 
 ![image](https://github.com/LDeYoung17/sweet-lift-taxi/assets/70500225/5d2ccf26-b135-4008-9c83-fc23ef34a2ad)
+
+
+<h2>Portfolio Link</h2>
+
+https://ldeyoung17.github.io/
+
+This is my portfolio where all my projects, including this one, can be found, as well as more information about my experience as a Data Scientist and Software Engineer.
