@@ -1,4 +1,4 @@
-# sweet-lift-taxi
+# Time Series Predictions
 
 <h2>Summary</h2>
 
@@ -32,7 +32,9 @@ This project evaluates different machine learning models on a time series to mak
 
 <h2>Plans for Updates</h2>
 
-I would like to add more EDA and use a different dummy baseline.
+Add more exploratory data analysis using time series graphs to understand the data at hand before making predictions.
+
+Use a different dummy baseline model from sklearn to better align with the models chosen.
 
 <h2>Sample Graph</h2>
 
