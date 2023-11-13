@@ -22,8 +22,6 @@ This project evaluates different machine learning models on a time series to mak
 
 <h2>Local Access</h2>
 
-<h2>Local Access</h2>
-
 This project will require Python 3.11.5 or later.
 
 All packages required can be installed from the requirements.txt file by executing the command 'pip install -r requirements.txt'
@@ -41,6 +39,10 @@ Use a different dummy baseline model from sklearn to better align with the model
 <h2>Sample Graph</h2>
 
 ![image](https://github.com/LDeYoung17/sweet-lift-taxi/assets/70500225/5d2ccf26-b135-4008-9c83-fc23ef34a2ad)
+
+<h2>Demonstration Video</h2>
+
+https://drive.google.com/file/d/1LrowvWShrOBSxghIrefEaEWCg21bpZde/view?usp=sharing
 
 
 <h2>Portfolio Link</h2>
